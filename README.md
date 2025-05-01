@@ -1,6 +1,6 @@
 # EmotionLens: AI-Powered Emotion Analysis & Music Recommendation
 
-![EmotionLens Logo](https://i.imgur.com/wWM9hMf.png)
+[EmotionLens Logo]
 
 EmotionLens is a comprehensive web application that uses Gemini AI to analyze facial expressions in photos and provide personalized emotional analysis, music recommendations, and mood-based suggestions. The platform offers users insights into their emotional patterns over time and creates custom Spotify playlists tailored to their emotional states.
 
